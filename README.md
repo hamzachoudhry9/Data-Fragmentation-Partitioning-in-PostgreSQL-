@@ -1,6 +1,6 @@
 # Data Fragmentation & Partitioning in PostgreSQL – CSE 511
 
-This repository contains a single Python script, `assignment4.py`, that demonstrates **horizontal fragmentation** of relational datasets in PostgreSQL using **range-based** and **round-robin partitioning**.
+This repository contains Python script, that demonstrates **horizontal fragmentation** of relational datasets in PostgreSQL using **range-based** and **round-robin partitioning**.
 
 The script provides functions to:
 - Load data from CSV files into PostgreSQL tables.
