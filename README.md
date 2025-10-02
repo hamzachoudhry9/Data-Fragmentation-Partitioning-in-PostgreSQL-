@@ -1,6 +1,6 @@
-# Data Fragmentation & Partitioning in PostgreSQL – CSE 511
+# Data Fragmentation & Partitioning in PostgreSQL 
 
-This project provides a **Python**-based solution for implementing and simulating horizontal data fragmentation strategies in **PostgreSQL**. Developed for CSE 511 (Data Processing at Scale), it demonstrates how partitioning can be used to optimize query performance and manage large datasets.
+This project provides a **Python**-based solution for implementing and simulating horizontal data fragmentation strategies in **PostgreSQL**. The project demonstrates how partitioning can be used to optimize query performance and manage large datasets.
 
 ## Key Features
 
